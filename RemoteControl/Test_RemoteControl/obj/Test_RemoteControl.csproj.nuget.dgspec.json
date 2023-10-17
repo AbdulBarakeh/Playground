@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abdul\\source\\repos\\Test_RemoteControl\\Test_RemoteControl.csproj": {}
+    "C:\\Users\\abdul\\Documents\\Coding\\Playground\\RemoteControl\\Test_RemoteControl\\Test_RemoteControl.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abdul\\source\\repos\\RemoteControl\\RemoteControl.csproj": {
+    "C:\\Users\\abdul\\Documents\\Coding\\Playground\\RemoteControl\\RemoteControl\\RemoteControl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abdul\\source\\repos\\RemoteControl\\RemoteControl.csproj",
+        "projectUniqueName": "C:\\Users\\abdul\\Documents\\Coding\\Playground\\RemoteControl\\RemoteControl\\RemoteControl.csproj",
         "projectName": "RemoteControl",
-        "projectPath": "C:\\Users\\abdul\\source\\repos\\RemoteControl\\RemoteControl.csproj",
+        "projectPath": "C:\\Users\\abdul\\Documents\\Coding\\Playground\\RemoteControl\\RemoteControl\\RemoteControl.csproj",
         "packagesPath": "C:\\Users\\abdul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abdul\\source\\repos\\RemoteControl\\obj\\",
+        "outputPath": "C:\\Users\\abdul\\Documents\\Coding\\Playground\\RemoteControl\\RemoteControl\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abdul\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\abdul\\source\\repos\\Test_RemoteControl\\Test_RemoteControl.csproj": {
+    "C:\\Users\\abdul\\Documents\\Coding\\Playground\\RemoteControl\\Test_RemoteControl\\Test_RemoteControl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abdul\\source\\repos\\Test_RemoteControl\\Test_RemoteControl.csproj",
+        "projectUniqueName": "C:\\Users\\abdul\\Documents\\Coding\\Playground\\RemoteControl\\Test_RemoteControl\\Test_RemoteControl.csproj",
         "projectName": "Test_RemoteControl",
-        "projectPath": "C:\\Users\\abdul\\source\\repos\\Test_RemoteControl\\Test_RemoteControl.csproj",
+        "projectPath": "C:\\Users\\abdul\\Documents\\Coding\\Playground\\RemoteControl\\Test_RemoteControl\\Test_RemoteControl.csproj",
         "packagesPath": "C:\\Users\\abdul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abdul\\source\\repos\\Test_RemoteControl\\obj\\",
+        "outputPath": "C:\\Users\\abdul\\Documents\\Coding\\Playground\\RemoteControl\\Test_RemoteControl\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abdul\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\abdul\\source\\repos\\RemoteControl\\RemoteControl.csproj": {
-                "projectPath": "C:\\Users\\abdul\\source\\repos\\RemoteControl\\RemoteControl.csproj"
+              "C:\\Users\\abdul\\Documents\\Coding\\Playground\\RemoteControl\\RemoteControl\\RemoteControl.csproj": {
+                "projectPath": "C:\\Users\\abdul\\Documents\\Coding\\Playground\\RemoteControl\\RemoteControl\\RemoteControl.csproj"
               }
             }
           }

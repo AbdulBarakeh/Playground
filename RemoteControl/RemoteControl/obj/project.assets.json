@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abdul\\source\\repos\\RemoteControl\\RemoteControl.csproj",
+      "projectUniqueName": "C:\\Users\\abdul\\Documents\\Coding\\Playground\\RemoteControl\\RemoteControl\\RemoteControl.csproj",
       "projectName": "RemoteControl",
-      "projectPath": "C:\\Users\\abdul\\source\\repos\\RemoteControl\\RemoteControl.csproj",
+      "projectPath": "C:\\Users\\abdul\\Documents\\Coding\\Playground\\RemoteControl\\RemoteControl\\RemoteControl.csproj",
       "packagesPath": "C:\\Users\\abdul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abdul\\source\\repos\\RemoteControl\\obj\\",
+      "outputPath": "C:\\Users\\abdul\\Documents\\Coding\\Playground\\RemoteControl\\RemoteControl\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\abdul\\AppData\\Roaming\\NuGet\\NuGet.Config",
