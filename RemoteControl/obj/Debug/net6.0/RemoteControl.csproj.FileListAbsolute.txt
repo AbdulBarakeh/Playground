@@ -1,0 +1,15 @@
+C:\Users\abdul\source\repos\RemoteControl\bin\Debug\net6.0\RemoteControl.exe
+C:\Users\abdul\source\repos\RemoteControl\bin\Debug\net6.0\RemoteControl.deps.json
+C:\Users\abdul\source\repos\RemoteControl\bin\Debug\net6.0\RemoteControl.runtimeconfig.json
+C:\Users\abdul\source\repos\RemoteControl\bin\Debug\net6.0\RemoteControl.dll
+C:\Users\abdul\source\repos\RemoteControl\bin\Debug\net6.0\RemoteControl.pdb
+C:\Users\abdul\source\repos\RemoteControl\obj\Debug\net6.0\RemoteControl.csproj.AssemblyReference.cache
+C:\Users\abdul\source\repos\RemoteControl\obj\Debug\net6.0\RemoteControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\source\repos\RemoteControl\obj\Debug\net6.0\RemoteControl.AssemblyInfoInputs.cache
+C:\Users\abdul\source\repos\RemoteControl\obj\Debug\net6.0\RemoteControl.AssemblyInfo.cs
+C:\Users\abdul\source\repos\RemoteControl\obj\Debug\net6.0\RemoteControl.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\RemoteControl\obj\Debug\net6.0\RemoteControl.dll
+C:\Users\abdul\source\repos\RemoteControl\obj\Debug\net6.0\refint\RemoteControl.dll
+C:\Users\abdul\source\repos\RemoteControl\obj\Debug\net6.0\RemoteControl.pdb
+C:\Users\abdul\source\repos\RemoteControl\obj\Debug\net6.0\RemoteControl.genruntimeconfig.cache
+C:\Users\abdul\source\repos\RemoteControl\obj\Debug\net6.0\ref\RemoteControl.dll
